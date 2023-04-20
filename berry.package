@@ -2,8 +2,9 @@
 	"repo": "github",
 	"owner": "msx80",
 	"name": "moreberry",
+	"description": "a library to test the dependency manager",
 	"version": "1.0.0",
 	"dependencies": [
-		"github:msx80:berrytestlibrary:1.0.0"
+		"github:msx80:berrytestlibrary:2.0.0"
 	]
 }
