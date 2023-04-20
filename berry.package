@@ -3,7 +3,7 @@
 	"owner": "msx80",
 	"name": "moreberry",
 	"description": "a library to test the dependency manager",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"dependencies": [
 		"github:msx80:berrytestlibrary:2.0.0"
 	]
